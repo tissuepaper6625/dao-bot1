@@ -1,0 +1,12 @@
+# Frontend
+frontend/node_modules
+frontend/package-lock.json
+
+# Backend
+backend/__pycache__
+
+# Global
+node_modules
+*.log
+*.pyc
+.DS_Store
